@@ -12,7 +12,9 @@
 	<img src="img/intro1.png">
 </div>
 <div id='enterimg'>
-	<a href="login.jsp"><img src="img/intro_click.png"></a>
+	<a href="BTMS.bt"><img src="img/intro_click.png"></a>
 </div>
 </body>
 </html>
+
+
