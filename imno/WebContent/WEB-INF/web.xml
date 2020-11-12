@@ -9,4 +9,17 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>BTMSControl</servlet-name>
+  	<servlet-class>kr.btms.btms_control</servlet-class>
+  
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>BTMSControl</servlet-name>
+  	<url-pattern>*.bt</url-pattern>
+  </servlet-mapping>
+  
+  
 </web-app>

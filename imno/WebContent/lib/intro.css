@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#introimg{
+	margin:0 auto;
+	width:1505px;
+	height:150px;
+	top:200px;
+	position:relative;
+}
+#introimg img{width:1505px;height:145px;}
+#enterimg{
+	margin:0 auto;
+	width:205px;
+	position:relative;
+	height:80px;
+	padding-top:10px;
+	top:400px;
+}
